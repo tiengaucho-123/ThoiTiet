@@ -1,0 +1,42 @@
+[
+ {
+ "catId":1,
+ "name": "Trà Sữa",
+ "image": "anh01.jpg"
+ },
+ {
+ "catId":2,
+ "name": "Trà",
+ "image": "layouttra1.png"
+ },
+ {
+ "catId":3,
+ "name": "Lá Trà",
+ "image": "layouttra2.png"
+ },
+ {
+ "catId":4,
+ "name": "Cà Phê",
+ "image": "layoutcaphe.png"
+ },
+ {
+  "catId":1,
+  "name": "Trà Sữa",
+  "image": "anh01.jpg"
+  },
+  {
+  "catId":2,
+  "name": "Trà",
+  "image": "layouttra1.png"
+  },
+  {
+  "catId":3,
+  "name": "Lá Trà",
+  "image": "layouttra2.png"
+  },
+  {
+  "catId":4,
+  "name": "Cà Phê",
+  "image": "layoutcaphe.png"
+  }
+]
